@@ -1,0 +1,101 @@
+Thoughts,Emotions,Symptoms,Behaviours,Psychological Insight,ML Training Label,Suggestions
+My future looks bleak,Anger,Weight changes,Angry outbursts,Mental exhaustion,Cognitive Behavioral Therapy (CBT),Consider talking to a mental health professional
+I do not matter,Suicidal,Muscle aches,Decrease in activities,Perceived incompetence,Mindfulness-Based Stress Reduction (MBSR),Establish a support system with friends and family
+I do not matter,Overwhelmed,Loss of sex drive,Increased smoking or drinking,Low self-worth,Expressive writing exercises,Consider talking to a mental health professional
+I feel hopeless,Suicidal,Difficulties sleeping,Procrastination,Pessimism,Expressive writing exercises,Consider talking to a mental health professional
+"There is no point, I will not enjoy it",Suicidal,Muscle aches,Decrease in activities,Pessimism,Social skills training,Seek professional help for anxiety or depression
+I am a failure,Lethargic,Chest pains,Social withdrawal,Perceived incompetence,Physical exercise routines,Consider journaling or expressive writing
+I feel hopeless,Hopeless,Headaches,Decrease in activities,Low self-worth,Physical exercise routines,Engage in physical activities
+I am a failure,Irritable,Feeling restless,Decrease in activities,Low self-worth,Expressive writing exercises,Consider journaling or expressive writing
+I do not matter,Suicidal,Difficulties sleeping,Increased smoking or drinking,Negative self-perception,Cognitive Behavioral Therapy (CBT),Consider talking to a mental health professional
+I cannot do anything right,Hopeless,Digestive problems,Decrease in activities,Mental exhaustion,Physical exercise routines,Practice mindfulness and relaxation exercises
+I cannot do anything right,Irritable,Tearful,Excessive online browsing,Anhedonia (loss of pleasure),Social skills training,Practice mindfulness and relaxation exercises
+Everything seems difficult,Irritable,Poor appetite or overeating,Excessive online browsing,Feelings of rejection,Mindfulness-Based Stress Reduction (MBSR),Practice mindfulness and relaxation exercises
+"There is no point, I will not enjoy it",Anger,Tearful,Social withdrawal,Feelings of rejection,Psychiatric evaluation,Seek professional help for anxiety or depression
+I might as well not be here,Suicidal,Feeling restless,Excessive online browsing,Negative self-perception,Physical exercise routines,Seek professional help for anxiety or depression
+I do not matter,Anxiety,Muscle aches,Procrastination,Feelings of rejection,Expressive writing exercises,Establish a support system with friends and family
+I feel hopeless,Unmotivated,Digestive problems,Decrease in activities,Pessimism,Cognitive Behavioral Therapy (CBT),Establish a support system with friends and family
+Nobody likes me,Sad,Weight changes,Excessive online browsing,Anhedonia (loss of pleasure),Physical exercise routines,Engage in physical activities
+Everything seems difficult,Anxiety,Fatigue,Excessive online browsing,Suicidal ideation,Expressive writing exercises,Seek professional help for anxiety or depression
+Nobody likes me,Hopeless,Fatigue,Decrease in activities,Sense of insignificance,Cognitive Behavioral Therapy (CBT),Consider talking to a mental health professional
+"There is no point, I will not enjoy it",Anxiety,Digestive problems,Procrastination,Suicidal ideation,Social skills training,Consider talking to a mental health professional
+"There is no point, I will not enjoy it",Hopeless,Chest pains,Eating too much,Feelings of rejection,Psychiatric evaluation,Practice mindfulness and relaxation exercises
+"There is no point, I will not enjoy it",Hopeless,Muscle aches,Social withdrawal,Suicidal ideation,Cognitive Behavioral Therapy (CBT),Consider journaling or expressive writing
+People think I am stupid,Depressed,Fatigue,Angry outbursts,Negative self-perception,Expressive writing exercises,Engage in physical activities
+I do not matter,Irritable,Muscle aches,Procrastination,Sense of insignificance,Psychiatric evaluation,Engage in physical activities
+I do not matter,Lethargic,Difficulties sleeping,Crying episodes,Suicidal ideation,Cognitive Behavioral Therapy (CBT),Practice mindfulness and relaxation exercises
+I cannot do anything right,Unmotivated,Tearful,Excessive online browsing,Low self-worth,Cognitive Behavioral Therapy (CBT),Consider journaling or expressive writing
+I feel hopeless,Overwhelmed,Poor appetite or overeating,Social withdrawal,Hopelessness,Social skills training,Consider journaling or expressive writing
+Nobody likes me,Depressed,Difficulties sleeping,Increased smoking or drinking,Pessimism,Expressive writing exercises,Engage in physical activities
+I feel hopeless,Fearful,Chest pains,Angry outbursts,Perceived incompetence,Psychiatric evaluation,Practice mindfulness and relaxation exercises
+I feel hopeless,Fearful,Loss of sex drive,Avoiding responsibilities,Feelings of rejection,Cognitive Behavioral Therapy (CBT),Establish a support system with friends and family
+People think I am stupid,Overwhelmed,Muscle aches,Increased smoking or drinking,Suicidal ideation,Cognitive Behavioral Therapy (CBT),Engage in physical activities
+I am a failure,Sad,Digestive problems,Increased smoking or drinking,Negative self-perception,Psychiatric evaluation,Seek professional help for anxiety or depression
+I am a failure,Sad,Loss of sex drive,Angry outbursts,Negative self-perception,Psychiatric evaluation,Seek professional help for anxiety or depression
+People think I am stupid,Hopeless,Digestive problems,Eating too much,Suicidal ideation,Expressive writing exercises,Seek professional help for anxiety or depression
+"There is no point, I will not enjoy it",Frustrated,Tearful,Social withdrawal,Suicidal ideation,Cognitive Behavioral Therapy (CBT),Consider journaling or expressive writing
+I feel hopeless,Guilt,Fatigue,Increased smoking or drinking,Low self-worth,Mindfulness-Based Stress Reduction (MBSR),Consider journaling or expressive writing
+My future looks bleak,Depressed,Chest pains,Decrease in activities,Pessimism,Cognitive Behavioral Therapy (CBT),Consider journaling or expressive writing
+Everything seems difficult,Unmotivated,Weight changes,Sleeping during the day,Pessimism,Social skills training,Seek professional help for anxiety or depression
+"There is no point, I will not enjoy it",Hopeless,Muscle aches,Angry outbursts,Low self-worth,Physical exercise routines,Engage in physical activities
+I cannot do anything right,Unmotivated,Chest pains,Procrastination,Hopelessness,Psychiatric evaluation,Practice mindfulness and relaxation exercises
+People think I am stupid,Overwhelmed,Fatigue,Avoiding responsibilities,Feelings of rejection,Mindfulness-Based Stress Reduction (MBSR),Practice mindfulness and relaxation exercises
+I am a failure,Guilt,Feeling restless,Avoiding responsibilities,Anhedonia (loss of pleasure),Physical exercise routines,Consider journaling or expressive writing
+My future looks bleak,Irritable,Poor appetite or overeating,Decrease in activities,Low self-worth,Expressive writing exercises,Engage in physical activities
+I am a failure,Sad,Fatigue,Sleeping during the day,Pessimism,Expressive writing exercises,Seek professional help for anxiety or depression
+My future looks bleak,Lethargic,Digestive problems,Eating too much,Suicidal ideation,Physical exercise routines,Consider talking to a mental health professional
+People think I am stupid,Frustrated,Loss of sex drive,Sleeping during the day,Suicidal ideation,Mindfulness-Based Stress Reduction (MBSR),Establish a support system with friends and family
+Nobody likes me,Fearful,Weight changes,Avoiding responsibilities,Feelings of rejection,Psychiatric evaluation,Consider talking to a mental health professional
+I might as well not be here,Guilt,Feeling restless,Social withdrawal,Feelings of rejection,Expressive writing exercises,Establish a support system with friends and family
+Everything seems difficult,Sad,Muscle aches,Decrease in activities,Hopelessness,Cognitive Behavioral Therapy (CBT),Consider journaling or expressive writing
+I might as well not be here,Anger,Weight changes,Angry outbursts,Suicidal ideation,Cognitive Behavioral Therapy (CBT),Consider journaling or expressive writing
+Everything seems difficult,Fearful,Weight changes,Avoiding responsibilities,Sense of insignificance,Psychiatric evaluation,Practice mindfulness and relaxation exercises
+Nobody likes me,Anxiety,Muscle aches,Excessive online browsing,Pessimism,Physical exercise routines,Establish a support system with friends and family
+I do not matter,Overwhelmed,Fatigue,Sleeping during the day,Sense of insignificance,Mindfulness-Based Stress Reduction (MBSR),Establish a support system with friends and family
+I might as well not be here,Suicidal,Digestive problems,Increased smoking or drinking,Negative self-perception,Social skills training,Practice mindfulness and relaxation exercises
+I do not matter,Unmotivated,Tearful,Angry outbursts,Low self-worth,Cognitive Behavioral Therapy (CBT),Practice mindfulness and relaxation exercises
+Nobody likes me,Unmotivated,Weight changes,Procrastination,Mental exhaustion,Psychiatric evaluation,Seek professional help for anxiety or depression
+I cannot do anything right,Guilt,Tearful,Eating too much,Mental exhaustion,Psychiatric evaluation,Practice mindfulness and relaxation exercises
+I am a failure,Lethargic,Weight changes,Procrastination,Suicidal ideation,Physical exercise routines,Seek professional help for anxiety or depression
+"There is no point, I will not enjoy it",Anxiety,Difficulties sleeping,Excessive online browsing,Low self-worth,Mindfulness-Based Stress Reduction (MBSR),Engage in physical activities
+Everything seems difficult,Fearful,Digestive problems,Decrease in activities,Hopelessness,Psychiatric evaluation,Consider talking to a mental health professional
+People think I am stupid,Irritable,Muscle aches,Social withdrawal,Negative self-perception,Psychiatric evaluation,Seek professional help for anxiety or depression
+Everything seems difficult,Sad,Chest pains,Angry outbursts,Mental exhaustion,Physical exercise routines,Practice mindfulness and relaxation exercises
+I do not matter,Hopeless,Loss of sex drive,Eating too much,Low self-worth,Mindfulness-Based Stress Reduction (MBSR),Engage in physical activities
+I might as well not be here,Hopeless,Weight changes,Increased smoking or drinking,Low self-worth,Physical exercise routines,Consider journaling or expressive writing
+I cannot do anything right,Frustrated,Difficulties sleeping,Eating too much,Low self-worth,Physical exercise routines,Consider talking to a mental health professional
+I do not matter,Lethargic,Fatigue,Procrastination,Pessimism,Social skills training,Consider journaling or expressive writing
+I cannot do anything right,Anxiety,Feeling restless,Eating too much,Sense of insignificance,Social skills training,Consider journaling or expressive writing
+Nobody likes me,Unmotivated,Weight changes,Social withdrawal,Pessimism,Mindfulness-Based Stress Reduction (MBSR),Engage in physical activities
+I feel hopeless,Depressed,Muscle aches,Excessive online browsing,Pessimism,Mindfulness-Based Stress Reduction (MBSR),Establish a support system with friends and family
+I am a failure,Unmotivated,Tearful,Eating too much,Pessimism,Psychiatric evaluation,Practice mindfulness and relaxation exercises
+I might as well not be here,Hopeless,Feeling restless,Angry outbursts,Low self-worth,Cognitive Behavioral Therapy (CBT),Seek professional help for anxiety or depression
+I am a failure,Irritable,Weight changes,Decrease in activities,Low self-worth,Expressive writing exercises,Establish a support system with friends and family
+Nobody likes me,Guilt,Difficulties sleeping,Social withdrawal,Suicidal ideation,Physical exercise routines,Establish a support system with friends and family
+Nobody likes me,Depressed,Poor appetite or overeating,Procrastination,Anhedonia (loss of pleasure),Psychiatric evaluation,Seek professional help for anxiety or depression
+I feel hopeless,Irritable,Tearful,Decrease in activities,Anhedonia (loss of pleasure),Social skills training,Consider talking to a mental health professional
+People think I am stupid,Anger,Tearful,Angry outbursts,Sense of insignificance,Psychiatric evaluation,Seek professional help for anxiety or depression
+I feel hopeless,Lethargic,Digestive problems,Sleeping during the day,Suicidal ideation,Cognitive Behavioral Therapy (CBT),Practice mindfulness and relaxation exercises
+Everything seems difficult,Anxiety,Headaches,Sleeping during the day,Pessimism,Mindfulness-Based Stress Reduction (MBSR),Consider journaling or expressive writing
+I am a failure,Suicidal,Digestive problems,Avoiding responsibilities,Sense of insignificance,Cognitive Behavioral Therapy (CBT),Consider talking to a mental health professional
+People think I am stupid,Overwhelmed,Loss of sex drive,Eating too much,Low self-worth,Psychiatric evaluation,Engage in physical activities
+People think I am stupid,Unmotivated,Fatigue,Social withdrawal,Negative self-perception,Cognitive Behavioral Therapy (CBT),Engage in physical activities
+Everything seems difficult,Anger,Tearful,Procrastination,Low self-worth,Psychiatric evaluation,Seek professional help for anxiety or depression
+Everything seems difficult,Guilt,Poor appetite or overeating,Excessive online browsing,Suicidal ideation,Mindfulness-Based Stress Reduction (MBSR),Practice mindfulness and relaxation exercises
+I might as well not be here,Depressed,Weight changes,Decrease in activities,Sense of insignificance,Psychiatric evaluation,Establish a support system with friends and family
+I am a failure,Depressed,Loss of sex drive,Decrease in activities,Anhedonia (loss of pleasure),Cognitive Behavioral Therapy (CBT),Consider journaling or expressive writing
+I cannot do anything right,Irritable,Difficulties sleeping,Avoiding responsibilities,Hopelessness,Social skills training,Practice mindfulness and relaxation exercises
+Everything seems difficult,Lethargic,Tearful,Procrastination,Negative self-perception,Social skills training,Engage in physical activities
+Nobody likes me,Hopeless,Difficulties sleeping,Crying episodes,Mental exhaustion,Social skills training,Practice mindfulness and relaxation exercises
+I am a failure,Sad,Chest pains,Angry outbursts,Feelings of rejection,Psychiatric evaluation,Establish a support system with friends and family
+Nobody likes me,Overwhelmed,Difficulties sleeping,Avoiding responsibilities,Hopelessness,Mindfulness-Based Stress Reduction (MBSR),Consider talking to a mental health professional
+I feel hopeless,Suicidal,Digestive problems,Procrastination,Hopelessness,Physical exercise routines,Seek professional help for anxiety or depression
+I feel hopeless,Anger,Chest pains,Eating too much,Low self-worth,Expressive writing exercises,Consider talking to a mental health professional
+"There is no point, I will not enjoy it",Anxiety,Muscle aches,Procrastination,Pessimism,Physical exercise routines,Seek professional help for anxiety or depression
+My future looks bleak,Guilt,Loss of sex drive,Avoiding responsibilities,Mental exhaustion,Mindfulness-Based Stress Reduction (MBSR),Consider journaling or expressive writing
+People think I am stupid,Overwhelmed,Muscle aches,Excessive online browsing,Negative self-perception,Social skills training,Practice mindfulness and relaxation exercises
+I do not matter,Unmotivated,Fatigue,Excessive online browsing,Anhedonia (loss of pleasure),Cognitive Behavioral Therapy (CBT),Seek professional help for anxiety or depression
+I feel hopeless,Guilt,Digestive problems,Decrease in activities,Sense of insignificance,Social skills training,Consider journaling or expressive writing
+I do not matter,Guilt,Poor appetite or overeating,Increased smoking or drinking,Anhedonia (loss of pleasure),Cognitive Behavioral Therapy (CBT),Practice mindfulness and relaxation exercises
+Everything seems difficult,Fearful,Feeling restless,Social withdrawal,Hopelessness,Expressive writing exercises,Engage in physical activities
+I cannot do anything right,Overwhelmed,Muscle aches,Avoiding responsibilities,Suicidal ideation,Psychiatric evaluation,Establish a support system with friends and family
