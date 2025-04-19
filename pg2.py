@@ -48,27 +48,32 @@ if "chat_history" not in st.session_state:
 # Input widgets
 with st.form("input_form"):
     col1, col2 = st.columns(2)
-    thought = col1.selectbox("💭 Thoughts", encoders["Thoughts"].classes_)
-    emotion = col2.selectbox("❤️ Emotions", encoders["Emotions"].classes_)
-    symptom = col1.selectbox("🩺 Physical Symptoms", encoders["Symptoms"].classes_)
-    behaviour = col2.selectbox("🧍 Behaviours", encoders["Behaviours"].classes_)
+
+    thought = col1.selectbox("💭 Thoughts", ["Choose..."] + list(encoders["Thoughts"].classes_))
+    emotion = col2.selectbox("❤️ Emotions", ["Choose..."] + list(encoders["Emotions"].classes_))
+    symptom = col1.selectbox("🩺 Physical Symptoms", ["Choose..."] + list(encoders["Symptoms"].classes_))
+    behaviour = col2.selectbox("🧍 Behaviours", ["Choose..."] + list(encoders["Behaviours"].classes_))
+    
     submitted = st.form_submit_button("Get Suggestion")
 
 if submitted:
-    encoded_input = [
-        encoders["Thoughts"].transform([thought])[0],
-        encoders["Emotions"].transform([emotion])[0],
-        encoders["Symptoms"].transform([symptom])[0],
-        encoders["Behaviours"].transform([behaviour])[0]
-    ]
-    pred = model.predict([encoded_input])
-    suggestion = encoders["Suggestions"].inverse_transform(pred)[0]
-    explanation = explanations.get(suggestion, "No explanation available.")
+    if "Choose..." in [thought, emotion, symptom, behaviour]:
+        st.warning("⚠️ Please select an option from all categories.")
+    else:
+        encoded_input = [
+            encoders["Thoughts"].transform([thought])[0],
+            encoders["Emotions"].transform([emotion])[0],
+            encoders["Symptoms"].transform([symptom])[0],
+            encoders["Behaviours"].transform([behaviour])[0]
+        ]
+        pred = model.predict([encoded_input])
+        suggestion = encoders["Suggestions"].inverse_transform(pred)[0]
+        explanation = explanations.get(suggestion, "No explanation available.")
 
-    # Append to chat
-    user_msg = f"**User:** {thought}, {emotion}, {symptom}, {behaviour}"
-    bot_msg = f"**Assistant:** Suggestion - {suggestion}\n\n_Explanation_: {explanation}"
-    st.session_state.chat_history.append((user_msg, bot_msg))
+        # Append to chat
+        user_msg = f"**User:** {thought}, {emotion}, {symptom}, {behaviour}"
+        bot_msg = f"**Assistant:** Suggestion - {suggestion}\n\n_Explanation_: {explanation}"
+        st.session_state.chat_history.append((user_msg, bot_msg))
 
 # Display chat history
 st.subheader("🗨️ Chat History")
