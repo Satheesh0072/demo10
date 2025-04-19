@@ -38,7 +38,7 @@ explanations = {
 
 # Streamlit UI
 st.set_page_config(page_title="Mental Health Support Assistant", layout="centered")
-st.title("🧠 Mental Health Suggestion Assistant")
+st.title("🧠 Mindfulness")
 st.caption("Powered by Machine Learning and Psychological Insights")
 
 # Session state for chat memory
